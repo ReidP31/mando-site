@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>The Mandalorian</title>
+      <link href="styles/style.css" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap" rel="stylesheet">
+   </head>
+   <body>
+    <h1>The Mandalorian</h1>
+     <img src="images/art-of-mandalorian-final-cover_2.jpg" alt="The Mandalorian looks into the distance while holding Grogu, with the Razor Crest as backdrop.">
+     <p>
+      <a href="https://www.forbes.com/sites/danidiplacido/2020/12/20/whats-next-for-the-mandalorian-and-baby-yoda/?sh=5dc8c3a942f7" target="_blank">What will become of the Mandalorian and Grogu</a> as the child begins his Jedi training with Luke Skywalker? Will they:
+
+      <ul>
+        <li>Be lost to one another forever?</li>
+        <li>Be reunited in the not so distant future?</li>
+        <li>Cross paths again in another epic tale?</li>
+      </ul>
+
+     </p>
+
+
+   </body>
+</html>
