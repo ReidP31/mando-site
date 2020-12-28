@@ -20,7 +20,8 @@
       </ul>
 
      </p>
+     <button>Change User</button>
 
-
+   <script src="scripts/main.js"></script>
    </body>
 </html>
